@@ -1,0 +1,1 @@
+import{_ as o,b as t,o as s,c as n,a as c,e as a}from"./index-foKMVwiJ.js";const r={components:{},setup(){}},_={class:"content"},p={class:"inner"};function i(d,u,l,m,f,V){const e=t("RouterView");return s(),n("div",_,[c("div",p,[a(e)])])}const h=o(r,[["render",i]]);export{h as default};
